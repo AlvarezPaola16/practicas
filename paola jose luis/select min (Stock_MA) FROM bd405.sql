@@ -1,0 +1,1 @@
+select min (Stock_MA) FROM bd405.material;

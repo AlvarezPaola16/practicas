@@ -1,0 +1,1 @@
+select sum (Nombre_MA) FROM bd405.material where id_Material=3;

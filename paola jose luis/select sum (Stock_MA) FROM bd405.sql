@@ -1,0 +1,1 @@
+select sum (Stock_MA) FROM bd405.material where id_Material;
